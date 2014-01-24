@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="placehold">Enter city, state or zip</string>
+    <string name="APP_ID">573668606032180</string>
+    
+
+</resources>
